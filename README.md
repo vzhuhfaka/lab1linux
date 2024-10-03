@@ -13,4 +13,12 @@
     ![image](https://github.com/user-attachments/assets/49145f49-820f-45ed-a5bf-fe185c8016c9)
     и появляемся на рабочем столе
    ![image](https://github.com/user-attachments/assets/3d856fdc-8615-493a-95bc-a067ae0a0f25)
- 
+3) Открываем консоль комбинацией ctrl+shift+t
+   ![image](https://github.com/user-attachments/assets/3f411ad2-f7fd-4ab8-9223-214db9342396)
+  Теперь создадим файл script.bash
+   ![image](https://github.com/user-attachments/assets/d9d8fef4-12c0-4a84-a254-3f4637e95c36)
+  Откроем файл и отредактируем его, не забыв сохранить
+  ![image](https://github.com/user-attachments/assets/0868edd6-f7fa-41f9-a70c-4b7228bf2d75)
+  Проверим работоспособность
+  ![image](https://github.com/user-attachments/assets/e3a19668-1bb5-4605-a891-193f84fe1234)
+  Всё работает.
